@@ -1,0 +1,5 @@
+IP: 51.250.31.207;
+name_taski: https://lvnmarytaski.zapto.org;
+name_kittygram: https://kittygram-lvnmary.ddns.net/;
+login: user7;
+password: 123;
